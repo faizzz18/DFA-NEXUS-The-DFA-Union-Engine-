@@ -1,0 +1,5 @@
+{
+  "name": "DFA Nexus",
+  "description": "DFA Nexus is an interactive automata lab for visualizing cross-product DFA construction, parallel state transitions, and regular-language operations.",
+  "requestFramePermissions": []
+}
